@@ -1,0 +1,109 @@
+.mat-toolbar {
+  background-color: #183d3d;
+  color: #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-body {
+  padding-top: 20px;
+  margin: 0 auto;
+  max-width: 1348px;
+  mat-form-field {
+    width: 100%;
+  }
+}
+
+.date-fields {
+  display: flex;
+  gap: 16px;
+  margin-left: 15px; /* Adjust the gap as needed */
+}
+
+.start-date,
+.end-date {
+  flex: 1;
+}
+
+.btn {
+  display: flex;
+  margin-top: -70px;
+  margin-left: 900px;
+  display: flex;
+  color: white;
+}
+
+.search {
+  position: absolute;
+  right: 120px;
+}
+.reset {
+  position: absolute;
+  right: 40px;
+}
+.reset button {
+  background-color: #5c8374;
+}
+.search button {
+  background-color: #5c8374;
+}
+
+.table-container {
+  margin-top: 80px;
+
+  margin-left: 20px;
+  margin-right: 20px;
+
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  color: lightblue;
+
+  border-radius: 10px;
+  border-color: #b7bee3;
+  max-height: 400px;
+  overflow-x: auto;
+}
+
+.table-container th {
+  color: black; /* Blue header background color */
+
+  padding: 20px;
+  text-align: left;
+}
+th,
+td {
+  width: 20%;
+}
+
+.sticky-paginator {
+  border-top: 1px solid #ccc;
+  padding: 10px;
+  position: sticky;
+  bottom: 0;
+  z-index: 1;
+}
+
+.button-position button {
+  background-color: #587e6f;
+  color: black;
+  padding: 20px;
+
+  margin-top: 13px;
+  margin-left: 1100px;
+}
+
+.edit {
+  color: green;
+  padding-right: 10px;
+}
+
+.delete {
+  color: red;
+}
+
+.action {
+  display: flex;
+  gap: 20px;
+}

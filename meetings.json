@@ -1,0 +1,95 @@
+{
+  "meetings": [
+    {
+      "id": 1,
+      "title": "Project Kickoff Meeting",
+      "startDate": 1693816200000,
+      "durationMinutes": 30,
+      "endDate": 1693818000000
+    },
+    {
+      "id": 2,
+      "title": "Sales Team Weekly Sync",
+      "startDate": 1694524200000,
+      "durationMinutes": 20,
+      "endDate": 1694525400000
+    },
+    {
+      "id": 3,
+      "title": "Budget Review Meeting",
+      "startDate": 1696143600000,
+      "durationMinutes": 60,
+      "endDate": 1696147200000
+    },
+    {
+      "id": 4,
+      "title": "Marketing Campaign Planning",
+      "startDate": 1696237620000,
+      "durationMinutes": 34,
+      "endDate": 1696239660000
+    },
+    {
+      "id": 5,
+      "title": "Board of Directors Meeting",
+      "startDate": 1696251960000,
+      "durationMinutes": 45,
+      "endDate": 1696254660000
+    },
+    {
+      "id": 65,
+      "title": "Client Presentation",
+      "startDate": 1695283883000,
+      "durationMinutes": 25,
+      "endDate": 1695285383000
+    },
+    {
+      "id": 74,
+      "title": "Financial Strategy Discussion",
+      "startDate": 1695971549000,
+      "durationMinutes": 40,
+      "endDate": 1695973949000
+    },
+    {
+      "id": 165,
+      "title": "Customer Feedback Session",
+      "startDate": 1695136450000,
+      "durationMinutes": 20,
+      "endDate": 1695137650000
+    },
+    {
+      "id": 32,
+      "title": "Project Status Update",
+      "startDate": 1695798909000,
+      "durationMinutes": 50,
+      "endDate": 1695801909000
+    },
+    {
+      "id": 105,
+      "title": "HR Policy Review",
+      "startDate": 1695629771000,
+      "durationMinutes": 55,
+      "endDate": 1695633071000
+    },
+    {
+      "id": 4,
+      "title": "Marketing Campaign Planning",
+      "startDate": 1696237620000,
+      "durationMinutes": 34,
+      "endDate": 1696239660000
+    },
+    {
+      "id": 5,
+      "title": "Board of Directors Meeting",
+      "startDate": 1696251960000,
+      "durationMinutes": 45,
+      "endDate": 1696254660000
+    },
+    {
+      "id": 65,
+      "title": "Client Presentation",
+      "startDate": 1695283883000,
+      "durationMinutes": 25,
+      "endDate": 1695285383000
+    }
+  ]
+}

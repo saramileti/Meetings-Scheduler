@@ -1,0 +1,21 @@
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
+background-color: #93B1A6 }
+
+.mat-datepicker{
+  background-color: white !important;
+}
+
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import 'ngx-toastr/toastr';
+/* styles.css or styles.scss */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+
+/* body{
+  background-color: darkslategray;
+} */
